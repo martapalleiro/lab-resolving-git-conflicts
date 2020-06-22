@@ -1,17 +1,17 @@
 # Who am I
 
-* Where are you from?
-* What do you do?
-* Do you have previous experience with technology/data?
+* Where are you from? I'm from Galicia, Spain
+* What do you do? Right now I'm working on my data skills
+* Do you have previous experience with technology/data? No, zero...
 
 # Why am I here
 
-* What has brought you to Ironhack?
-* What knowledge/skills do you expect to learn in this bootcamp?
+* What has brought you to Ironhack? I'm looking for new job oportunities!
+* What knowledge/skills do you expect to learn in this bootcamp? Programming and statistics skills
 
 # What will I do after the bootcamp?
 
-* Which industry will you seek employment in?
-* What will your future role look like?
-* What is your career goal?
+* Which industry will you seek employment in? Tech industry
+* What will your future role look like? 
+* What is your career goal? 
 
