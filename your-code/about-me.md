@@ -16,7 +16,3 @@
 * What will your future role look like? 
 * What is your career goal? 
 
-=======
-Hello
-My name is Marta
->>>>>>> dbd588ae51c9de4cc6569ee4319af62b6a226335
